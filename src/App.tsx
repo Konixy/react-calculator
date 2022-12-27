@@ -1,7 +1,8 @@
 import React from 'react';
+import IPhone from './Iphone';
 
 function App() {
-  return <div className="text-center text-xl font-semibold">app</div>;
+  return <IPhone />;
 }
 
 export default App;
